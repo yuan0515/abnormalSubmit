@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-moblie
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# adnormalSubmit
+>>>>>>> ed719be525670ab90fab7af22623a8fdab7af7ac
